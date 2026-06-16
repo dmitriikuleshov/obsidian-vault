@@ -14,5 +14,3 @@ newgrp docker
 ```sh
 docker ps
 ```
-
-hello world
