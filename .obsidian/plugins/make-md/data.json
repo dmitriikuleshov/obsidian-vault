@@ -39,6 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//Work",
     "//Arch"
   ],
   "expandFolderOnClick": true,

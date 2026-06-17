@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/docker (add user to docker group).md",
+                "file": "Arch/system-resolved and AmneziaVPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker (add user to docker group)"
+              "title": "system-resolved and AmneziaVPN"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "8a05cdf37cb66792",
+            "id": "d71b82270c46fee8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5069465637207
+    "width": 317.5069465637207
   },
   "right": {
     "id": "3c10f1be4fb8f406",
@@ -197,13 +197,16 @@
   },
   "active": "c68fd9d23f809985",
   "lastOpenFiles": [
-    "Arch/mkfs format disk.md",
-    "Arch/ssh-keygen.md",
+    "Work/SDP Control.md",
+    "Arch/system-resolved and AmneziaVPN.md",
+    "Work/Встреча с Ильясовым Рафаэлем.md",
+    "Work/Встреча с Алексеем Гурьевым.md",
     "Work/Встреча с Заболотным.md",
     "Work/Work.md",
-    "Arch/Arch.md",
     "Arch/docker (add user to docker group).md",
-    "Work/Встреча с Ильясовым Рафаэлем.md",
+    "Arch/mkfs format disk.md",
+    "Arch/ssh-keygen.md",
+    "Arch/Arch.md",
     "Work",
     "Vault.md",
     "Arch",
