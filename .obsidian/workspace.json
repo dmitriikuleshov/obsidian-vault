@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/system-resolved and AmneziaVPN.md",
+                "file": "Arch/Arch Linux Installation Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "system-resolved and AmneziaVPN"
+              "title": "Arch Linux Installation Guide"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,8 +196,12 @@
   },
   "active": "c68fd9d23f809985",
   "lastOpenFiles": [
-    "Work/SDP Control.md",
+    "Arch/Arch Linux Installation Guide.md",
+    "Arch/Arch.md",
+    "Arch/.md",
+    "Arch/Installing Arch.md",
     "Arch/system-resolved and AmneziaVPN.md",
+    "Work/SDP Control.md",
     "Work/Встреча с Ильясовым Рафаэлем.md",
     "Work/Встреча с Алексеем Гурьевым.md",
     "Work/Встреча с Заболотным.md",
@@ -206,7 +209,6 @@
     "Arch/docker (add user to docker group).md",
     "Arch/mkfs format disk.md",
     "Arch/ssh-keygen.md",
-    "Arch/Arch.md",
     "Work",
     "Vault.md",
     "Arch",

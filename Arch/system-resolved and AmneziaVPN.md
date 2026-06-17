@@ -11,3 +11,5 @@ Ensure your `/etc/resolv.conf` is properly linked to the systemd stub:
 ```sh
 sudo ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
 ```
+
+HellfireHellfireTakeMySoulImWaitingImWaitingImReadyToGo
