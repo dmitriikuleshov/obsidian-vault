@@ -11,14 +11,17 @@
             "id": "c68fd9d23f809985",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Arch/Arch Linux Installation Guide.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Lifestyle/Schedule.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -58.68341907642781,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Arch Linux Installation Guide"
+              "icon": "lucide-layout-dashboard",
+              "title": "Schedule"
             }
           }
         ]
@@ -75,7 +78,7 @@
             }
           },
           {
-            "id": "d71b82270c46fee8",
+            "id": "38952029386ed967",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +87,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,8 +200,21 @@
   },
   "active": "c68fd9d23f809985",
   "lastOpenFiles": [
-    "Arch/Arch.md",
+    "Projects/Lifestyle/Schedule.canvas",
+    "Projects/Lifestyle/Lifestyle.md",
+    "Projects/Lifestyle/Untitled.md",
+    "Projects/Lifestyle",
+    "Projects/Projects.md",
+    "Vault.md",
+    "Projects/Maths/Maths.md",
+    "Projects/Maths",
+    "Projects/Programming/Programming.md",
+    "Projects/English/English.md",
+    "Projects/Programming",
+    "Projects/English",
+    "Projects",
     "Arch/Arch Linux Installation Guide.md",
+    "Arch/Arch.md",
     "Arch/.md",
     "Arch/Installing Arch.md",
     "Arch/system-resolved and AmneziaVPN.md",
@@ -210,7 +227,6 @@
     "Arch/mkfs format disk.md",
     "Arch/ssh-keygen.md",
     "Work",
-    "Vault.md",
     "Arch",
     "Untitled.md",
     "Tags"

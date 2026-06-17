@@ -39,8 +39,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Work",
-    "//Arch"
+    "//Projects/Projects/English",
+    "//Projects/Projects/Programming",
+    "//Projects",
+    "//Projects/Projects/Lifestyle"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

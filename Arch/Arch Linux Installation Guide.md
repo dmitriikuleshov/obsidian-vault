@@ -1,4 +1,3 @@
-
 > A clean Arch Linux installation checklist based on the commands used during setup.  
 > Target setup: **KDE Plasma**, **Btrfs**, **GRUB**, **NetworkManager**, **PipeWire**, and common development tools.
 

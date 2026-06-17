@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"97d28eabff10b83a","x":-400,"y":-380,"width":240,"height":60,"color":"4","type":"text","text":"6:00 Wake Up"},
+		{"id":"f5e3fdee7d630312","type":"text","text":"6:00-6:20 Shower","x":-400,"y":-300,"width":240,"height":60,"color":"4"},
+		{"id":"e7a35e3206ed10c7","type":"text","text":"6:20-7:00 Breakfask","x":-400,"y":-220,"width":240,"height":60,"color":"4"},
+		{"id":"df6ff25fb3d24947","x":-400,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"7:00-7:20 Meditation"},
+		{"id":"305cffaf03fe2886","x":-400,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"7:20-8:30 Reading"},
+		{"id":"3a04f3a452822265","x":-400,"y":20,"width":250,"height":60,"color":"4","type":"text","text":"8:30-9:00 Planning"},
+		{"id":"37830d40a6406d76","x":-80,"y":-380,"width":250,"height":60,"color":"3","type":"text","text":"18:00-18:30 Meditation"}
+	],
+	"edges":[]
+}
